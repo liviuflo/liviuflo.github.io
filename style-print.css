@@ -7,6 +7,10 @@ cv-header{
     margin-bottom: 2em;
 }
 
+cv-section:last-of-type{
+    border-bottom: none;
+}
+
 note {
     display: none;
 }
