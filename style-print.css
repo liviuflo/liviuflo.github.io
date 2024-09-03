@@ -1,0 +1,12 @@
+#main {
+    width: 100%;
+}
+
+cv-header{
+    margin-top: 0;
+    margin-bottom: 2em;
+}
+
+note {
+    display: none;
+}
