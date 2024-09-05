@@ -49,6 +49,10 @@ cv-section ul {
     margin-bottom: 0.5em;
 }
 
+cv-section ul li ul {
+    list-style: disc;
+}
+
 cv-subsection {
     display: block;
     margin-bottom: 0.5em;

@@ -2,4 +2,4 @@
 
 ## Local Dev Setup
 
-Launch ```python -m http.server``` in this directory.
+Run ```python3 server_with_reload.py``` in this directory.
